@@ -1,2 +1,2 @@
-# frontend-mentor-challenges
-My submission frontend mentor challanges
+# my-poor-projects
+intial project
